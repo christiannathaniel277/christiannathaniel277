@@ -1,5 +1,7 @@
 ## Hi there!! I'm Christian Nathaniel 👋
-![]
+
+![christian](img/github-header-image.png)
+
 <!--
 **christiannathaniel277/christiannathaniel277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
