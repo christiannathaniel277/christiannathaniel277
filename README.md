@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there!! I'm Christian Nathaniel 👋
+![]
 <!--
 **christiannathaniel277/christiannathaniel277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I'm currently learning **Laravel** Framework and **C** language
+
+![happy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUwZmR3ejZra2VkNzNuZXJwb3JqYWNkMGowN2dsMjR2MDJzeXJieSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tFSqMSMnzPRTAdvKyr/giphy.gif)
